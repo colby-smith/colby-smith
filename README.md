@@ -6,11 +6,7 @@
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨Creating bugs since November 2021<br>📚Currently learning Functional Programming in python.<br>🎯Goals: Develop my coding skills to expand my knowledge and look to move into Devops Engineering.</p>
+<p align="left">- Currently working on: Nothing at the moment.<br>- Currently learning: Functional Programming in python.<br>- Goals: Develop my coding skills to expand my knowledge and look to move into Devops Engineering.</p>
 
 ###
 
