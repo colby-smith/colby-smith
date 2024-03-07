@@ -36,6 +36,9 @@
 
 ###
 
+<h2 align="left">Proficient With</h2>
+
+###
 <div align="left">
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
