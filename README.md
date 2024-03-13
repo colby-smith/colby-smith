@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- Currently working on: https://github.com/colby-smith/Daily-Horoscope.<br>- Currently learning: Functional Programming in python.<br>- Goals: Develop my coding skills to expand my knowledge and look to move into Devops Engineering.</p>
+<p align="left">- Currently working on: https://github.com/colby-smith/Email-Horoscope.<br>- Currently learning: Functional Programming in python.<br>- Goals: Develop my coding skills to expand my knowledge and look to move into Devops Engineering.</p>
 
 ###
 
