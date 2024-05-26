@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- Currently working on: <br>- Currently learning: Functional Programming in python.<br>- Goals: Develop my coding skills to expand my knowledge and look to move into Devops Engineering.</p>
+<p align="left">- Currently working on: obtaining aws certified solutions architect associate certificate <br>- Currently learning: Functional Programming in python.<br>- Goals: Develop my coding skills to expand my knowledge and look to move into Devops Engineering.</p>
 
 ###
 
