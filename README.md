@@ -14,15 +14,16 @@ I’m Colby, an AWS DevOps Engineer based in the North East of England. I work a
 ### 🎯 Goals
 - Become AWS DevOps Professional certified by the end of 2026.
 - Continue developing my coding skills through projects and online learning to support large-scale cloud environments.
+<br>
 
 ## 📊 GitHub Statistics
 <br>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=colby-smith&theme=github-dark-blue&hide_border=true" height="200" />
 </div>
+<br>
 
 ## 🛠️ Proficient With
-<br>
 <div align="left">
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" height="40" />
   <img width="12" />
@@ -49,9 +50,9 @@ I’m Colby, an AWS DevOps Engineer based in the North East of England. I work a
   <img src="https://img.shields.io/badge/Packer-02A8EF?style=for-the-badge&logo=packer&logoColor=white" height="40" />
   <img width="12" />
 </div>
+<br>
 
 ## 🎓 Certifications
-<br>
 <div align="left">
   <img src="https://raw.githubusercontent.com/colby-smith/AWS-Certified-Cloud-Practitioner/main/aws-certified-cloud-practitioner.png" height="180" alt="AWS Cloud Practitioner Badge" />
 </div>
