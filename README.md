@@ -19,7 +19,7 @@ I’m Colby, an AWS DevOps Engineer based in the North East of England. I work a
 ## 📊 GitHub Statistics
 <br>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=colby-smith&theme=github-dark-blue&hide_border=true&v=4" height="200" />
+  <img src="https://streak-stats.demolab.com?user=colby-smith&theme=github-dark-blue&hide_border=true&v=2" height="200" />
 </div>
 <br>
 
