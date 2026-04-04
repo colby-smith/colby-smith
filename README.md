@@ -2,10 +2,13 @@
 
 I’m Colby, an AWS DevOps Engineer based in the North East of England. I work at Tombola Ltd, the UK’s largest online bingo company. I transitioned to DevOps on 1 July 2025, following more than three and a half years as an Infrastructure Engineer.
 
-### 🚀 What I'm Working On
-- Continuously building and maintaining scalable AWS infrastructure at Tombola.
-- Migrating legacy EC2 infrastructure for Tombola’s Arcade engines to a containerised solution on AWS ECS.
-- Updating and improving my GitHub projects.
+### 🧪 Personal Current Projects
+- Restructuring and organising older projects.
+- A complete restructure and overhaul of my AWS account to align it with enterprise standards using AWS Organizations. [Repository](https://github.com/colby-smith/AWS-Multi-Account-Setup)
+
+### 💼 Professional Current Projects
+- Continuously building and maintaining scalable AWS infrastructure at Tombola, using ECS, Docker, EC2 and TeamCity.
+- Migrating legacy EC2 infrastructure for Tombola’s Arcade engines to a containerised solution on AWS ECS within TeamCity using a new AWS account structure.
 
 ### 📚 Currently Learning
 - Linux fundamentals and command‑line workflow.
@@ -51,8 +54,6 @@ I’m Colby, an AWS DevOps Engineer based in the North East of England. I work a
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" height="40" />
   <img width="12" />
   <img src="https://img.shields.io/badge/YAML-000000?style=for-the-badge&logo=yaml&logoColor=white" height="40" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Packer-02A8EF?style=for-the-badge&logo=packer&logoColor=white" height="40" />
   <img width="12" />
 </div>
 <br>
