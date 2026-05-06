@@ -8,11 +8,11 @@ I’m Colby, an AWS DevOps Engineer based in the North East of England. I work a
 
 ### 💼 Professional Current Projects
 - Continuously building and maintaining scalable AWS infrastructure at Tombola, using ECS, Docker, EC2 and TeamCity.
-- Migrating legacy EC2 infrastructure for Tombola’s Arcade engines to a containerised solution on AWS ECS within TeamCity using a new AWS account structure.
+- Working with the head of engine development to create the infrastructure for Tombola's first ever 'Slingo' (arcade & bingo in one) game, using ecs & other serverless infrastructure.
 
 ### 📚 Currently Learning
-- Linux fundamentals and command‑line workflow.
 - AWS Solutions Architect Associate certification.
+- The programming language: Go.
 
 ### 🎯 Goals
 - Become AWS DevOps Professional certified by the end of 2026.
