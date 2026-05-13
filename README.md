@@ -4,7 +4,7 @@ I’m Colby, an AWS DevOps Engineer based in the North East of England. I work a
 
 ### 🧪 Personal Current Projects
 - Restructuring and organising older projects.
-- A complete restructure and overhaul of my AWS account to align it with enterprise standards using AWS Organizations. [Repository](https://github.com/colby-smith/AWS-Multi-Account-Setup)
+- Redesigning Perosnal website portfolio to allign with newer and better practices.
 
 ### 💼 Professional Current Projects
 - Continuously building and maintaining scalable AWS infrastructure at Tombola, using ECS, Docker, EC2 and TeamCity.
