@@ -31,7 +31,7 @@ I’m Colby, an AWS DevOps Engineer based in the North East of England. I work a
 </div>
 <br>
 
-## 🛠️ Proficient With
+## Proficient With
 <div align="left">
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" height="40" />
   <img width="12" />
@@ -58,7 +58,7 @@ I’m Colby, an AWS DevOps Engineer based in the North East of England. I work a
 </div>
 <br>
 
-## 🎓 Certifications
+## Certifications
 <div align="left">
   <img src="https://raw.githubusercontent.com/colby-smith/AWS-Certified-Cloud-Practitioner/main/aws-certified-cloud-practitioner.png" height="180" alt="AWS Cloud Practitioner Badge" />
 </div>
