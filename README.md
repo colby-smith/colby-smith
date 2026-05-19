@@ -1,4 +1,6 @@
-<h1 align="left">Hi 👋</h1>
+<h1 align="left">
+  Hi <sup><img src="https://cdn3.emoji.gg/emojis/786930-bulb9.png" width="48" height="48" align="middle" alt="bulb9" /></sup>
+</h1>
 
 I’m Colby, an AWS DevOps Engineer based in the North East of England. I work at Tombola Ltd, the UK’s largest online bingo company. I transitioned to DevOps on 1 July 2025, following more than three and a half years as an Infrastructure Engineer.
 
