@@ -8,7 +8,7 @@ I’m Colby, an AWS DevOps Engineer based in the North East of England. I work a
 - Restructuring and organising older projects.
 - Redesigning Personal website portfolio to allign with newer and better practices. [Github Repository](https://github.com/colby-smith/AWS-Static-Website-Hosting)
 ### Professional Current Projects
-- Continuously building and maintaining scalable AWS infrastructure at Tombola, using ECS, Docker, EC2 and TeamCity.
+- Continuously building and maintaining scalable AWS infrastructure at Tombola, using ECS Fargate, Lambda, EC2 and TeamCity.
 - Working with the head of engine development to create the infrastructure for Tombola's first ever 'Slingo' (arcade & bingo in one) game, using ecs & other serverless infrastructure.
 
 ### Currently Learning
@@ -49,8 +49,6 @@ I’m Colby, an AWS DevOps Engineer based in the North East of England. I work a
   <img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" height="40" />
   <img width="12" />
   <img src="https://img.shields.io/badge/TeamCity-000000?style=for-the-badge&logo=teamcity&logoColor=white" height="40" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="40" />
   <img width="12" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" height="40" />
   <img width="12" />
