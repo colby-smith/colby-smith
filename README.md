@@ -13,7 +13,7 @@ I’m Colby, an AWS DevOps Engineer based in the North East of England. I work a
 
 ### Currently Learning
 - AWS Solutions Architect Associate certification.
-- The programming language: Go.
+- Docker Fundamentals for Developing.
 
 ### Goals
 - Become AWS DevOps Professional certified by the end of 2026.
