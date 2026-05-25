@@ -2,11 +2,10 @@
   Hi <sup><img src="https://cdn3.emoji.gg/emojis/786930-bulb9.png" width="40" height="40" align="middle" alt="bulb9" /></sup>
 </h1>
 
-I’m Colby, an AWS DevOps Engineer based in the North East of England. I work at Tombola Ltd, the UK’s largest online bingo company. I transitioned to DevOps on 1 July 2025, following more than three and a half years as an Infrastructure Engineer.
+I’m Colby, an AWS DevOps Engineer based in the North East of England. I work at Tombola Ltd, the UK’s largest online bingo company. I transitioned to DevOps on 1 July 2025, following more than nearly 4 years as a Cloud Infrastructure Engineer.
 
 ### Personal Current Projects
-- Restructuring and organising older projects.
-- Redesigning Personal website portfolio to allign with newer and better practices. [Github Repository](https://github.com/colby-smith/AWS-Static-Website-Hosting)
+- Automating the rotation of AWS IAM user keys and storing them in SSM parameter store, [Link Here.](https://github.com/colby-smith/AWS-Access-Key-Rotation)
 ### Professional Current Projects
 - Continuously building and maintaining scalable AWS infrastructure at Tombola, using ECS Fargate, Lambda, EC2 and TeamCity.
 - Working with the head of engine development to create the infrastructure for Tombola's first ever 'Slingo' (arcade & bingo in one) game, using ecs & other serverless infrastructure.
