@@ -7,16 +7,13 @@ I’m Colby, an AWS DevOps Engineer based in the North East of England. I work a
 ### Personal Current Projects
 - Automating the rotation of AWS IAM user keys and storing them in SSM parameter store, [Link Here.](https://github.com/colby-smith/AWS-Access-Key-Rotation)
 ### Professional Current Projects
-- Continuously building and maintaining scalable AWS infrastructure at Tombola, using ECS Fargate, Lambda, EC2 and TeamCity.
-- Working with the head of engine development to create the infrastructure for Tombola's first ever 'Slingo' (arcade & bingo in one) game, using ecs & other serverless infrastructure.
+- Continuously building and maintaining scalable AWS infrastructure at Tombola, converting legacy EC2 infrastructure to newer serverless architectures using ECS Fargate, Lambda, API gateway, and TeamCity.
 
 ### Currently Learning
 - AWS Solutions Architect Associate certification.
-- Docker Fundamentals for Developing.
 
 ### Goals
 - Become AWS DevOps Professional certified by the end of 2026.
-- Continue developing my coding skills through projects and online learning to support large-scale cloud environments.
 <br>
 
 <br>
