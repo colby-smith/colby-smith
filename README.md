@@ -16,18 +16,6 @@ I’m Colby, an AWS DevOps Engineer based in the North East of England. I work a
 - Become AWS DevOps certified by the end of 2026.
 <br>
 
-<br>
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img 
-      src="https://streak-stats.demolab.com?user=colby-smith&theme=tokyonight-duo&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=500&card_height=200&type=svg" 
-      alt="GitHub Streak" 
-      height="200"
-    />
-  </a>
-</div>
-<br>
-
 ## Certifications
 <div align="left">
   <img src="https://raw.githubusercontent.com/colby-smith/AWS-Certified-Cloud-Practitioner/main/aws-certified-cloud-practitioner.png" height="180" alt="AWS Cloud Practitioner Badge" />
