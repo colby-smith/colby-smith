@@ -11,6 +11,7 @@ I’m Colby, an AWS DevOps Engineer based in the North East of England. I work a
 
 ### Currently Learning
 - AWS Solutions Architect Associate certification.
+- Harvard's CS50 Introduction to Computer Science
 
 ### Goals
 - Become AWS DevOps certified by the end of 2026.
