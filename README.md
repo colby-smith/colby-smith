@@ -1,23 +1,14 @@
-<h1 align="left">
-  Hi <sup><img src="https://cdn3.emoji.gg/emojis/786930-bulb9.png" width="40" height="40" align="middle" alt="bulb9" /></sup>
-</h1>
 
-I’m Colby, an AWS DevOps Engineer based in the North East of England. I work at Tombola Ltd, the UK’s largest online bingo company. I transitioned to DevOps on 1 July 2025, following more than nearly 4 years as a Cloud Infrastructure Engineer.
+### Hi <sup><img src="https://cdn3.emoji.gg/emojis/786930-bulb9.png" width="40" height="40" align="middle" alt="bulb9" /></sup>
 
-### Personal Current Projects
-- Automating the rotation of AWS IAM user keys and storing them in SSM parameter store, [Link Here.](https://github.com/colby-smith/AWS-Access-Key-Rotation)
-### Professional Current Projects
-- Continuously building and maintaining scalable AWS infrastructure at Tombola, converting legacy EC2 infrastructure to newer serverless architectures using ECS Fargate, Lambda, API gateway, and TeamCity.
+I’m Colby, an engineer based in the north east of England currently working as a devops engineer @tombolaltd, previously a Cloud Infrastructure engineer for over 4 years.
 
-### Currently Learning
-- AWS Solutions Architect Associate certification.
-- Harvard's CS50 Introduction to Computer Science
+- Find out more about my projects on my [website](https://colby-smith-labs.com/)
+- Connect with me on [linkedin](https://www.linkedin.com/in/colbysmith99/)
+- Drop me an email @colbysmith99@hotmail.com
 
-### Goals
-- Become AWS DevOps certified by the end of 2026.
-<br>
+#### Current Projects & learning
 
-## Certifications
-<div align="left">
-  <img src="https://raw.githubusercontent.com/colby-smith/AWS-Certified-Cloud-Practitioner/main/aws-certified-cloud-practitioner.png" height="180" alt="AWS Cloud Practitioner Badge" />
-</div>
+- [Go-Full-Stack-Web-Application](https://github.com/colby-smith/Go-Full-Stack-Web-Application) a simple web application for creating, storing, and sharing text snippets.
+- [AWS SAA-C03](https://aws.amazon.com/certification/certified-solutions-architect-associate/) an AWS certification focused on the design of cost and performance optimized solutions.
+- [Harvard's CS50](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science) an introductory semester into Harvards computer science degree.
