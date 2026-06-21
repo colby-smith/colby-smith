@@ -1,7 +1,7 @@
 
 ### Hi <sup><img src="https://cdn3.emoji.gg/emojis/786930-bulb9.png" width="40" height="40" align="middle" alt="bulb9" /></sup>
 
-I’m Colby, an engineer based in the north east of England currently working as a devops engineer @tombolaltd, previously a Cloud Infrastructure engineer for over 4 years.
+I’m Colby, an engineer based in the north east of England currently working as a devops engineer @[Tombola](https://www.tombola.co.uk/), previously a Cloud Infrastructure engineer for over 4 years.
 
 - Find out more about my projects on my [website](https://colby-smith-labs.com/)
 - Connect with me on [linkedin](https://www.linkedin.com/in/colbysmith99/)
