@@ -5,7 +5,7 @@ I’m Colby, an engineer based in the north east of England currently working as
 
 - Find out more about my projects on my [website](https://colby-smith-labs.com/)
 - Connect with me on [linkedin](https://www.linkedin.com/in/colbysmith99/)
-- Drop me an email @colbysmith99@hotmail.com
+- Drop me an email at colbysmith99@hotmail.com
 
 #### Current Projects & learning
 
